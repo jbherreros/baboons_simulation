@@ -43,7 +43,7 @@ procedure baboons_simulation is
         monitor.northUnlock;
         Put_Line("North" & My_Idx'img & " has arrived to the South");
         sleep; -- going back to the hill
-        Put_Line("North" & My_Idx'img & ":" & i'img & " lap out of "& it'img);
+        Put_Line("North" & My_Idx'img & ":" & i'img & " lap out of"& it'img);
       end loop;
   end northbaboon;
 

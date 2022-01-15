@@ -1,3 +1,4 @@
+-- Juan Carlos Bujosa Herreros and José Luis García Herreros
 with Ada.Text_Io; use  Ada.Text_Io;
 with def_monitor; use def_monitor;
 with Ada.Numerics.Discrete_Random;

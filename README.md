@@ -6,4 +6,8 @@ To compile: gnatmake baboons_simulation.adb
 Link to explanation: https://youtu.be/IECwxai5_GM
 
 # Authors 
+<<<<<<< HEAD
 Juan Carlos Bujosa Herreros and José Luis García Herreros
+=======
+Juan Carlos Bujosa Herreros
+>>>>>>> 61cc4a42f223fbf8e49492557352c178beda2a69
